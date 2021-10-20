@@ -1,0 +1,182 @@
+[
+  {
+    "Identifier": 123456781,
+    "Title": "Gıda Pazarlama A.Ş. Test Kullanıcısı",
+    "Type": "OZEL",
+    "CreationTime": "2014-03-19T10:54:25",
+    "DeletionTime": null,
+    "IsDeleted": false,
+    "ModuleTypeList": [
+      {
+        "Id": 0,
+        "Identifier": 123456781,
+        "ModuleType": 1
+      }
+    ],
+    "AliasList": [
+      {
+        "Id": 0,
+        "Identifier": 123456781,
+        "ModuleType": 1,
+        "Alias": "urn:mail:defaultpk@mail1.com.tr",
+        "IsDeleted": false,
+        "UserRoleCode": "PK",
+        "CreationTime": "2014-03-19T10:54:25",
+        "DeletionTime": null
+      }
+    ]
+  },
+  {
+    "Identifier": 123456782,
+    "Title": "OTOMOTİV SAN. VE TİC. LTD. ŞTİ.Test Kullanıcısı",
+    "Type": "OZEL",
+    "CreationTime": "2014-03-19T14:17:26",
+    "DeletionTime": null,
+    "IsDeleted": false,
+    "ModuleTypeList": [
+      {
+        "Id": 0,
+        "Identifier": 123456782,
+        "ModuleType": 1
+      }
+    ],
+    "AliasList": [
+      {
+        "Id": 0,
+        "Identifier": 123456782,
+        "ModuleType": 1,
+        "Alias": "urn:mail:defaultpk@mail2.com.tr",
+        "IsDeleted": false,
+        "UserRoleCode": "PK",
+        "CreationTime": "2014-03-19T14:17:26",
+        "DeletionTime": null
+      }
+    ]
+  },
+  {
+    "Identifier": 123456783,
+    "Title": "REŞAT KAYA INSAAT",
+    "Type": "OZEL",
+    "CreationTime": "2021-03-11T19:14:53",
+    "DeletionTime": null,
+    "IsDeleted": false,
+    "ModuleTypeList": [
+      {
+        "Id": 0,
+        "Identifier": 123456783,
+        "ModuleType": 1
+      }
+    ],
+    "AliasList": [
+      {
+        "Id": 0,
+        "Identifier": 123456783,
+        "ModuleType": 1,
+        "Alias": "urn:mail:gpk@g",
+        "IsDeleted": false,
+        "UserRoleCode": "PK",
+        "CreationTime": "2021-03-09T15:36:56",
+        "DeletionTime": null
+      },
+      {
+        "Id": 0,
+        "Identifier": 123456783,
+        "ModuleType": 1,
+        "Alias": "urn:mail:hpk@h",
+        "IsDeleted": false,
+        "UserRoleCode": "PK",
+        "CreationTime": "2021-03-11T19:12:53",
+        "DeletionTime": null
+      },
+      {
+        "Id": 0,
+        "Identifier": 123456783,
+        "ModuleType": 1,
+        "Alias": "urn:mail:rtypk@rty",
+        "IsDeleted": false,
+        "UserRoleCode": "PK",
+        "CreationTime": "2021-03-11T18:25:55",
+        "DeletionTime": null
+      },
+      {
+        "Id": 0,
+        "Identifier": 123456783,
+        "ModuleType": 1,
+        "Alias": "urn:mail:qwspk@wqwq",
+        "IsDeleted": false,
+        "UserRoleCode": "PK",
+        "CreationTime": "2021-03-11T19:14:53",
+        "DeletionTime": null
+      }
+    ]
+  },
+  {
+    "Identifier": 123456784,
+    "Title": "KİMYA SAN. TİC. LTD.ŞTİ. Test Kullanıcısı",
+    "Type": "OZEL",
+    "CreationTime": "2014-03-17T15:24:38",
+    "DeletionTime": null,
+    "IsDeleted": false,
+    "ModuleTypeList": [
+      {
+        "Id": 0,
+        "Identifier": 123456784,
+        "ModuleType": 1
+      },
+      {
+        "Id": 0,
+        "Identifier": 123456784,
+        "ModuleType": 3
+      }
+    ],
+    "AliasList": [
+      {
+        "Id": 0,
+        "Identifier": 123456784,
+        "ModuleType": 1,
+        "Alias": "urn:mail:defaultpk@mail3.com",
+        "IsDeleted": false,
+        "UserRoleCode": "PK",
+        "CreationTime": "2014-03-17T15:24:38",
+        "DeletionTime": null
+      },
+      {
+        "Id": 0,
+        "Identifier": 123456784,
+        "ModuleType": 3,
+        "Alias": "urn:mail:defaultpk@mail3.com",
+        "IsDeleted": false,
+        "UserRoleCode": "PK",
+        "CreationTime": "2014-03-17T15:24:38",
+        "DeletionTime": null
+      }
+    ]
+  },
+  {
+    "Identifier": 123456785,
+    "Title": "A YAPI INSAAT",
+    "Type": "OZEL",
+    "CreationTime": "2021-08-03T19:13:22",
+    "DeletionTime": null,
+    "IsDeleted": false,
+    "ModuleTypeList": [
+      {
+        "Id": 0,
+        "Identifier": 900549825,
+        "ModuleType": 1
+      }
+    ],
+    "AliasList": [
+      {
+        "Id": 0,
+        "Identifier": 123456785,
+        "ModuleType": 1,
+        "Alias": "urn:mail:defaultpk@hotmail.com",
+        "IsDeleted": false,
+        "UserRoleCode": "PK",
+        "CreationTime": "2021-08-03T19:13:22",
+        "DeletionTime": null
+      }
+    ]
+  }
+]
